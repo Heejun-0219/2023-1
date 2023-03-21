@@ -4,23 +4,40 @@
         <meta charset="utf-8"> 
         <title>css</title>
         <style>
-            div{
-                background: orange url(link) no-repeat right bottom cover;
+            p::first-line{
+                color: red;
             }
-            span{ /* width, height 속성을 가지지 못한다. */ 
-                border-width: 5px;
-                border-style: dashed;
-                border-color: orange;
-                display: block; /* inline-block : block 속성을 가진다. 넓이 높이 등등 */
+            p::first-letter{
+                color: yellow;
+            }
+            li::marker{
+                color: teal;
+                font-size: 60px;
+            }
+            input::placeholder{
+                font-size: 24px;
+                color: black;
+            }
+            span::before{
+                content: "front ";
+                color: red;
+                font-weight: 100;
+            }
+            span::after{
+                content: "back";
+                color: skyblue;
+                font-weight: 900;
             }
         </style>
     </head>
     <body>
-        <div>
-            block level
-        </div>
-        <span>
-            inline level
-        </span>
+        <p>1 1 1 1 1 1 1 1 1 1 1 1 1 <span>add</span> 1 1 1 1 1 1 1 1 1 1 </p>
+        <ul>
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+            <li>4</li>
+        </ul>
+        <input type="text" placeholder="write">
     </body>
 </html>
