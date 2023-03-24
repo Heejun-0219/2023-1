@@ -1,0 +1,312 @@
+.desktop1 {
+    width: 100%;
+    height: 1024px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .rectangle4 {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 1024px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .line2 {
+    top: 75px;
+    left: 988px;
+    width: 225px;
+    height: 0px;
+    position: absolute;
+  }
+  .line3 {
+    top: 350px;
+    left: 988px;
+    width: 272px;
+    height: 0px;
+    position: absolute;
+  }
+  .rectangle2 {
+    top: 0px;
+    left: 0px;
+    width: 500px;
+    height: 1024px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .line4 {
+    top: 650px;
+    left: 988px;
+    width: 358px;
+    height: 0px;
+    position: absolute;
+  }
+  .write {
+    top: 323px;
+    left: 31px;
+    width: 439px;
+    height: 649px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .text {
+    top: 587px;
+    left: 39px;
+    color: rgba(255, 255, 255, 1);
+    width: 340px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text02 {
+    top: 517px;
+    left: 39px;
+    color: rgba(255, 255, 255, 1);
+    width: 321px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text04 {
+    top: 447px;
+    left: 39px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: underline;
+  }
+  .text06 {
+    top: 377px;
+    left: 44px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text08 {
+    top: 307px;
+    left: 11px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 35px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .text10 {
+    color: rgba(80, 131, 193, 1);
+    width: 439px;
+    height: auto;
+    position: absolute;
+    font-size: 100px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .line1 {
+    top: 377px;
+    left: 11px;
+    width: 272px;
+    height: 0px;
+    position: absolute;
+  }
+  .rectangle1 {
+    top: -0.000023625456378795207px;
+    left: 0.000002769246975731221px;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 150px;
+  }
+  .rectangle3 {
+    top: 0px;
+    left: 0px;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 150px;
+  }
+  .text15 {
+    top: 150px;
+    left: 970px;
+    color: rgba(41, 42, 46, 1);
+    width: 345px;
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text16 {
+    font-weight: 700;
+  }
+  .text20 {
+    font-weight: 400;
+  }
+  .text27 {
+    top: 450px;
+    left: 976px;
+    color: rgba(41, 42, 46, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text42 {
+    top: 749px;
+    left: 976px;
+    color: rgba(41, 42, 46, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text61 {
+    top: 350px;
+    left: 570px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 70px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text63 {
+    top: 650px;
+    left: 570px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 70px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text65 {
+    top: 75px;
+    left: 570px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 70px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  
