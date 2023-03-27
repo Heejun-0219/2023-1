@@ -12,7 +12,7 @@ import java.util.Date;
 
 import javax.swing.JOptionPane;
 
-public class MakeTopicwithClass {
+public class Q2MakeTopicwithClass {
 
 	public static void main(String[] args) {
 		try {
@@ -36,6 +36,7 @@ public class MakeTopicwithClass {
 			System.out.println("태어난 지 : " + birthFromDay + "일째");
 		}
 		catch (ParseException e) {
+			JOptionPane.showMessageDialog(null, "숫자만 입력해야합니다.");
 			e.printStackTrace();
 		}
 	}
@@ -44,4 +45,3 @@ public class MakeTopicwithClass {
 
 // JoptionPane : String 입력 받기 
 // Date : simpledateformat a 오전오후, E 요일 yMd	Hms Date o = new Date() | SimpleDateFormat p = new SimpleDateFormat("") | p.format(o)
-// Date 객체를 사용해서 태어난지 몇시간이 되었는지 출력하기 

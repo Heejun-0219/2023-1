@@ -8,7 +8,7 @@ package HomeWork1;
 
 import javax.swing.JOptionPane;
 
-public class ReceiveNameId {
+public class Q1ReceiveNameId {
 
 	public static void main(String[] args) {
 		// Name & Student ID를 받을 변수 생성 
